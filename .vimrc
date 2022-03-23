@@ -269,3 +269,5 @@ colorscheme gruvbox
 "let g:airline#extensions#tabline#left_sep = ' '  "separater
 "let g:airline#extensions#tabline#left_alt_sep = '|'  "separater
 "let g:airline#extensions#tabline#formatter = 'default'  "formater
+
+hi Normal guibg=NONE ctermbg=NONE
